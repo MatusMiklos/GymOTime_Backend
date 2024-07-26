@@ -1,0 +1,11 @@
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Contracts/bin/Debug/net8.0/GymOTime.Contracts.deps.json
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Contracts/bin/Debug/net8.0/GymOTime.Contracts.dll
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Contracts/bin/Debug/net8.0/GymOTime.Contracts.pdb
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Contracts/obj/Debug/net8.0/GymOTime.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Contracts/obj/Debug/net8.0/GymOTime.Contracts.AssemblyInfoInputs.cache
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Contracts/obj/Debug/net8.0/GymOTime.Contracts.AssemblyInfo.cs
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Contracts/obj/Debug/net8.0/GymOTime.Contracts.csproj.CoreCompileInputs.cache
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Contracts/obj/Debug/net8.0/GymOTime.Contracts.dll
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Contracts/obj/Debug/net8.0/refint/GymOTime.Contracts.dll
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Contracts/obj/Debug/net8.0/GymOTime.Contracts.pdb
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Contracts/obj/Debug/net8.0/ref/GymOTime.Contracts.dll

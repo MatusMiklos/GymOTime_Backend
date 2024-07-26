@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FFAjPCJZQ4LUKm5L7LcfjbaNNcmugaLGHLYeX7BBy34=",
+  "Source": "GymOTime.Api",
+  "BasePath": "_content/GymOTime.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

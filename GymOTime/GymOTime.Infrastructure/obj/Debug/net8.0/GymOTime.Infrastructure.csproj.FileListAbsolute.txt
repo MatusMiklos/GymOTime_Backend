@@ -1,0 +1,17 @@
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Infrastructure/bin/Debug/net8.0/GymOTime.Infrastructure.deps.json
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Infrastructure/bin/Debug/net8.0/GymOTime.Infrastructure.dll
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Infrastructure/bin/Debug/net8.0/GymOTime.Infrastructure.pdb
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Infrastructure/bin/Debug/net8.0/GymOTime.Application.dll
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Infrastructure/bin/Debug/net8.0/GymOTime.Domain.dll
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Infrastructure/bin/Debug/net8.0/GymOTime.Application.pdb
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Infrastructure/bin/Debug/net8.0/GymOTime.Domain.pdb
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Infrastructure/obj/Debug/net8.0/GymOTime.Infrastructure.csproj.AssemblyReference.cache
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Infrastructure/obj/Debug/net8.0/GymOTime.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Infrastructure/obj/Debug/net8.0/GymOTime.Infrastructure.AssemblyInfoInputs.cache
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Infrastructure/obj/Debug/net8.0/GymOTime.Infrastructure.AssemblyInfo.cs
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Infrastructure/obj/Debug/net8.0/GymOTime.Infrastructure.csproj.CoreCompileInputs.cache
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Infrastructure/obj/Debug/net8.0/GymOTime.Infrastructure.csproj.CopyComplete
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Infrastructure/obj/Debug/net8.0/GymOTime.Infrastructure.dll
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Infrastructure/obj/Debug/net8.0/refint/GymOTime.Infrastructure.dll
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Infrastructure/obj/Debug/net8.0/GymOTime.Infrastructure.pdb
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Infrastructure/obj/Debug/net8.0/ref/GymOTime.Infrastructure.dll

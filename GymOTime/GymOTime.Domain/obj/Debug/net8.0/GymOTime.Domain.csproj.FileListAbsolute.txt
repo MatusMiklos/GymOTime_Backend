@@ -1,0 +1,11 @@
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Domain/bin/Debug/net8.0/GymOTime.Domain.deps.json
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Domain/bin/Debug/net8.0/GymOTime.Domain.dll
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Domain/bin/Debug/net8.0/GymOTime.Domain.pdb
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Domain/obj/Debug/net8.0/GymOTime.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Domain/obj/Debug/net8.0/GymOTime.Domain.AssemblyInfoInputs.cache
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Domain/obj/Debug/net8.0/GymOTime.Domain.AssemblyInfo.cs
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Domain/obj/Debug/net8.0/GymOTime.Domain.csproj.CoreCompileInputs.cache
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Domain/obj/Debug/net8.0/GymOTime.Domain.dll
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Domain/obj/Debug/net8.0/refint/GymOTime.Domain.dll
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Domain/obj/Debug/net8.0/GymOTime.Domain.pdb
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Domain/obj/Debug/net8.0/ref/GymOTime.Domain.dll
