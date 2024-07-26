@@ -9,3 +9,4 @@
 /home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Contracts/obj/Debug/net8.0/refint/GymOTime.Contracts.dll
 /home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Contracts/obj/Debug/net8.0/GymOTime.Contracts.pdb
 /home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Contracts/obj/Debug/net8.0/ref/GymOTime.Contracts.dll
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Contracts/obj/Debug/net8.0/GymOTime.Contracts.sourcelink.json

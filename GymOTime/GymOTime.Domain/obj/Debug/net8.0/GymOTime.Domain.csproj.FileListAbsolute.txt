@@ -9,3 +9,4 @@
 /home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Domain/obj/Debug/net8.0/refint/GymOTime.Domain.dll
 /home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Domain/obj/Debug/net8.0/GymOTime.Domain.pdb
 /home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Domain/obj/Debug/net8.0/ref/GymOTime.Domain.dll
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Domain/obj/Debug/net8.0/GymOTime.Domain.sourcelink.json

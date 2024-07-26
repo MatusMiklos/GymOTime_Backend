@@ -13,3 +13,4 @@
 /home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Application/obj/Debug/net8.0/refint/GymOTime.Application.dll
 /home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Application/obj/Debug/net8.0/GymOTime.Application.pdb
 /home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Application/obj/Debug/net8.0/ref/GymOTime.Application.dll
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Application/obj/Debug/net8.0/GymOTime.Application.sourcelink.json

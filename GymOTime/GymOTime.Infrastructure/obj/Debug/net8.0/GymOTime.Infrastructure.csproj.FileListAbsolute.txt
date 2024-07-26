@@ -15,3 +15,4 @@
 /home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Infrastructure/obj/Debug/net8.0/refint/GymOTime.Infrastructure.dll
 /home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Infrastructure/obj/Debug/net8.0/GymOTime.Infrastructure.pdb
 /home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Infrastructure/obj/Debug/net8.0/ref/GymOTime.Infrastructure.dll
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Infrastructure/obj/Debug/net8.0/GymOTime.Infrastructure.sourcelink.json

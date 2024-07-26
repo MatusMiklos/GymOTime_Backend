@@ -39,3 +39,10 @@
 /home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Api/obj/Debug/net8.0/GymOTime.Api.pdb
 /home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Api/obj/Debug/net8.0/GymOTime.Api.genruntimeconfig.cache
 /home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Api/obj/Debug/net8.0/ref/GymOTime.Api.dll
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Api/obj/Debug/net8.0/GymOTime.Api.sourcelink.json
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Api/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Api/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
