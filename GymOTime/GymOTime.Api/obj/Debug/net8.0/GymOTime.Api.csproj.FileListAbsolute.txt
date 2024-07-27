@@ -46,3 +46,4 @@
 /home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
 /home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
 /home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Api/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Api/bin/Debug/net8.0/ErrorOr.dll

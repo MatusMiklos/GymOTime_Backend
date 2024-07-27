@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "fyCjHeYH60mD0cAvOgi8QGYvoypSR8vTcRMCSYRnZatMzD9y0rQ0qkxVHAXtWKAlY2t8ATnMLzD8IW0YHFLwjw==",
+  "dgSpecHash": "T3POIptGS2nS0pPVJpe2IwkwTpyl8PGYx8q0ZzwC/egSNDSiF6uJHuT/eicujsNtk9vA7UVtxwob419O8fBUIg==",
   "success": true,
   "projectFilePath": "/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Api/GymOTime.Api.csproj",
   "expectedPackageFiles": [
+    "/home/matus/.nuget/packages/erroror/2.0.1/erroror.2.0.1.nupkg.sha512",
     "/home/matus/.nuget/packages/microsoft.aspnetcore.openapi/8.0.7/microsoft.aspnetcore.openapi.8.0.7.nupkg.sha512",
     "/home/matus/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/home/matus/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",

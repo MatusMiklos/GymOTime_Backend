@@ -1,15 +1,22 @@
+using GymOTime.Api.Common.Errors;
 using GymOTime.Application;
+using Microsoft.AspNetCore.Mvc.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
+{
+    builder.Services
+        .AddApplication()
+        .AddInfrastructure(builder.Configuration);
 
-builder.Services
-    .AddApplication()
-    .AddInfrastructure(builder.Configuration);
+    builder.Services.AddControllers();
 
-builder.Services.AddControllers();
+    builder.Services.AddSingleton<ProblemDetailsFactory, GymOTimeProblemDetailsFactory>();
+}
+
 var app = builder.Build();
-
-app.UseHttpsRedirection();
-app.MapControllers();
-
-app.Run();
+{
+    app.UseExceptionHandler("/error");
+    app.UseHttpsRedirection();
+    app.MapControllers();
+    app.Run();
+}

@@ -1,14 +1,16 @@
+using ErrorOr;
+
 namespace GymOTime.Application.Services.Authentication;
 
 public interface IAuthenticationService
 {
-    AuthenticationResult Register(
+    ErrorOr<AuthenticationResult> Register(
         string firstName,
         string lastName,
         string email,
         string password);
 
-    AuthenticationResult Login(
+    ErrorOr<AuthenticationResult> Login(
         string email,
         string Password);
 }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ec5d0csNJHRGbZ5vOcvWBwWW3e7ry6ShYXqepJaS4aBqLXW3HoIkzeC87tgFFj9XPcqvdPOo09eWksB8w3IYRA==",
+  "dgSpecHash": "zGDCtIuLf1vso4/MCSwlYIIx7cSHqoAjt3N4f3gVoXq72InEHE5D47N5vh7VdUbKxsBUT8DNYy1d5M23mR8w1w==",
   "success": true,
   "projectFilePath": "/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Domain/GymOTime.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/matus/.nuget/packages/erroror/2.0.1/erroror.2.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

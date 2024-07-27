@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VIFKG0QJQ7gOMLz/nbbR/5Vrnsh75sJu0f6mnnAjwRdhirxZHG0XasnHzNtPT7m1y/6orOUTZiKUeUGciQ9Mcw==",
+  "dgSpecHash": "cVhoWw0+Bj5+OQGjqeii6HCOqiQYmBm83NwCzAdF4kokm52BEdG6WgknC1FYj3PiierG1rhjyhKZXmd3PsBrVA==",
   "success": true,
   "projectFilePath": "/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Application/GymOTime.Application.csproj",
   "expectedPackageFiles": [
+    "/home/matus/.nuget/packages/erroror/2.0.1/erroror.2.0.1.nupkg.sha512",
     "/home/matus/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
   ],
   "logs": []

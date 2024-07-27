@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nsn1MGmmgDLPZe1IFfUSMlyLG982vhAH7UV2VezdhIXtAUz11K0daBZYpWxwM23pWRE+287y7zPIAthAz2/MTw==",
+  "dgSpecHash": "dfll2TkjX2d00PIESB7YRLBjUOmpg4kf6Bi+UeEYwRkXeUv0Wmr/BWhTlkIbJ8itHumHE8vyntfuZGTvGA8DBw==",
   "success": true,
   "projectFilePath": "/home/matus/Documents/Projects/GymOTime_Backend/GymOTime/GymOTime.Infrastructure/GymOTime.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "/home/matus/.nuget/packages/erroror/2.0.1/erroror.2.0.1.nupkg.sha512",
     "/home/matus/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "/home/matus/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "/home/matus/.nuget/packages/microsoft.extensions.configuration.binder/8.0.0/microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
