@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GymOTime.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83fa9eb4f3ca86c6bdb033dff2a74c6a0ba2e882")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33bcc7c68f4b045c5fc86c3ffa543feccd433e6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("GymOTime.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GymOTime.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

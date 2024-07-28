@@ -1,18 +1,18 @@
 using ErrorOr;
-using GymOTime.Application.Common.Errors;
 using GymOTime.Application.Common.Interfaces.Authentication;
 using GymOTime.Application.Common.Interfaces.Persistance;
+using GymOTime.Application.Services.Authentication.Common;
 using GymOTime.Domain.Common.Errors;
 using GymOTime.Domain.Entities;
 
-namespace GymOTime.Application.Services.Authentication;
+namespace GymOTime.Application.Services.Authentication.Commands;
 
-public class AuthenticationService : IAuthenticationService
+public class AuthenticationCommandService : IAuthenticationCommandService
 {
     private readonly IJwtTokenGenerator _jwtTokenGenerator;
     private readonly IUserRepository _userRepository;
 
-    public AuthenticationService(
+    public AuthenticationCommandService(
         IJwtTokenGenerator jwtTokenGenerator,
         IUserRepository userRepository)
     {
@@ -39,23 +39,6 @@ public class AuthenticationService : IAuthenticationService
 
         // Create JWT token
         Guid userId = Guid.NewGuid();
-        var token = _jwtTokenGenerator.GenerateToken(user);
-
-        return new AuthenticationResult(
-            user,
-            token);
-    }
-
-    public ErrorOr<AuthenticationResult> Login(string email, string Password)
-    {
-        if (_userRepository.GetUserByEmail(email) is not User user){
-            return Errors.Authentication.InvalidCredentials;
-        }
-
-        if (Password != user.Password){
-            return Errors.Authentication.InvalidCredentials;
-        }
-
         var token = _jwtTokenGenerator.GenerateToken(user);
 
         return new AuthenticationResult(
